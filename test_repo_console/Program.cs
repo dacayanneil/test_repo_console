@@ -10,6 +10,7 @@ namespace test_repo_console
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("test repo console");
         }
     }
 }
